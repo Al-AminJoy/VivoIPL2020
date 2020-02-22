@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008dd4</color>
+    <color name="colorPrimaryDark">#008dd4</color>
+    <color name="colorInactive">#FFF</color>
+    <color name="colorErrorText">#008dd4</color>
+
+    <color name="colorAccent">#000000</color>
+    <color name="colorAppBg">#008dd4</color>
+    <color name="black_overlay">#008dd4</color>
+    <color name="pale_black">#008dd4</color>
+    <color name="colorSecondary">#FFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vivo IPL 2020</string>
+    <!--    <string name="title_activity_splash">Medicine at your door</string>-->
+    <string name="appbar_scroling_view_behaviour" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehaviour</string>
+    <!--AdMob Ads IDs-->
+    <string name="admob_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="industrial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
